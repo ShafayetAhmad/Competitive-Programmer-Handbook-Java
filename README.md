@@ -11,7 +11,7 @@ This repository contains solutions to problems from the book "Competitive Progra
 
 ## Introduction
 
-"[Competitive Programming Handbook](cses.fi/book/book.pdf)" is a comprehensive guide to competitive programming, which covers various topics such as algorithms, data structures, and problem-solving strategies. This repository provides Java implementations of the problems presented in the book, along with explanations and analysis of the solutions.
+"[Competitive Programming Handbook](https://cses.fi/book/book.pdf)" is a comprehensive guide to competitive programming, which covers various topics such as algorithms, data structures, and problem-solving strategies. This repository provides Java implementations of the problems presented in the book, along with explanations and analysis of the solutions.
 
 The solutions are organized by chapter and section, and each problem is accompanied by a detailed explanation of the solution and its time and space complexity analysis. The code is well-documented and follows best coding practices to ensure readability and maintainability.
 
